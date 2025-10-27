@@ -1,0 +1,7 @@
+Apples 3
+Broccoli 7
+Garlic 8
+Cucumbers 9
+Onions 4
+Zucchini 7
+Potatoes 4
